@@ -1,0 +1,6 @@
+applications:
+- name: covid-assistant-simple-fcmg
+  command: npm start
+  path: .
+  memory: 2048M
+  instances: 1
